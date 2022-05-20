@@ -1,0 +1,13 @@
+@media screen and (max-width: 1024px) {
+  #root {
+    width: 136rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  #root {
+    width: 132rem;
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
